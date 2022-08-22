@@ -1,0 +1,13 @@
+{
+  "type" : "record",
+  "name" : "spark_schema",
+  "fields" : [ {
+    "name" : "Name",
+    "type" : [ "null", "string" ],
+    "default" : null
+  }, {
+    "name" : "Horsepower",
+    "type" : [ "null", "long" ],
+    "default" : null
+  } ]
+}

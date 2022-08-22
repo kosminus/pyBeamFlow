@@ -1,0 +1,157 @@
+{'Name': 'amc rebel sst (sw)', 'Miles_per_Gallon': None}
+{'Name': 'chevrolet chevelle concours (sw)', 'Miles_per_Gallon': None}
+{'Name': 'ford mustang boss 302', 'Miles_per_Gallon': None}
+{'Name': 'citroen ds-21 pallas', 'Miles_per_Gallon': None}
+{'Name': 'ford torino (sw)', 'Miles_per_Gallon': None}
+{'Name': 'saab 900s', 'Miles_per_Gallon': None}
+{'Name': 'plymouth satellite (sw)', 'Miles_per_Gallon': None}
+{'Name': 'hi 1200d', 'Miles_per_Gallon': 9.0}
+{'Name': 'chevy c20', 'Miles_per_Gallon': 10.0}
+{'Name': 'ford f250', 'Miles_per_Gallon': 10.0}
+{'Name': 'mercury marquis', 'Miles_per_Gallon': 11.0}
+{'Name': 'oldsmobile omega', 'Miles_per_Gallon': 11.0}
+{'Name': 'chevrolet impala', 'Miles_per_Gallon': 11.0}
+{'Name': 'dodge d200', 'Miles_per_Gallon': 11.0}
+{'Name': 'mercury marquis brougham', 'Miles_per_Gallon': 12.0}
+{'Name': 'oldsmobile vista cruiser', 'Miles_per_Gallon': 12.0}
+{'Name': 'dodge monaco (sw)', 'Miles_per_Gallon': 12.0}
+{'Name': 'ford country', 'Miles_per_Gallon': 12.0}
+{'Name': 'oldsmobile delta 88 royale', 'Miles_per_Gallon': 12.0}
+{'Name': 'buick electra 225 custom', 'Miles_per_Gallon': 12.0}
+{'Name': 'plymouth custom suburb', 'Miles_per_Gallon': 13.0}
+{'Name': 'ford f108', 'Miles_per_Gallon': 13.0}
+{'Name': 'buick lesabre custom', 'Miles_per_Gallon': 13.0}
+{'Name': 'chrysler new yorker brougham', 'Miles_per_Gallon': 13.0}
+{'Name': 'ford mustang ii', 'Miles_per_Gallon': 13.0}
+{'Name': 'buick century luxus (sw)', 'Miles_per_Gallon': 13.0}
+{'Name': 'ford ltd', 'Miles_per_Gallon': 13.0}
+{'Name': 'pontiac safari (sw)', 'Miles_per_Gallon': 13.0}
+{'Name': 'buick century 350', 'Miles_per_Gallon': 13.0}
+{'Name': 'ford country squire (sw)', 'Miles_per_Gallon': 13.0}
+{'Name': 'chrysler newport royal', 'Miles_per_Gallon': 13.0}
+{'Name': 'chevrolet chevelle concours (sw)', 'Miles_per_Gallon': 13.0}
+{'Name': 'dodge d100', 'Miles_per_Gallon': 13.0}
+{'Name': 'chevrolet caprice classic', 'Miles_per_Gallon': 13.0}
+{'Name': 'chevrolet impala', 'Miles_per_Gallon': 13.0}
+{'Name': 'chevy c10', 'Miles_per_Gallon': 13.0}
+{'Name': 'ford gran torino (sw)', 'Miles_per_Gallon': 13.0}
+{'Name': 'plymouth volare premier v8', 'Miles_per_Gallon': 13.0}
+{'Name': 'chevrolet malibu', 'Miles_per_Gallon': 13.0}
+{'Name': 'amc ambassador brougham', 'Miles_per_Gallon': 13.0}
+{'Name': "plymouth 'cuda 340", 'Miles_per_Gallon': 14.0}
+{'Name': 'dodge coronet custom (sw)', 'Miles_per_Gallon': 14.0}
+{'Name': 'ford ltd', 'Miles_per_Gallon': 14.0}
+{'Name': 'chevrolet impala', 'Miles_per_Gallon': 14.0}
+{'Name': 'buick estate wagon (sw)', 'Miles_per_Gallon': 14.0}
+{'Name': 'ford gran torino (sw)', 'Miles_per_Gallon': 14.0}
+{'Name': 'pontiac catalina brougham', 'Miles_per_Gallon': 14.0}
+{'Name': 'chevrolet impala', 'Miles_per_Gallon': 14.0}
+{'Name': 'plymouth fury iii', 'Miles_per_Gallon': 14.0}
+{'Name': 'ford galaxie 500', 'Miles_per_Gallon': 14.0}
+{'Name': 'ford galaxie 500', 'Miles_per_Gallon': 14.0}
+{'Name': 'amc matador', 'Miles_per_Gallon': 14.0}
+{'Name': 'plymouth fury iii', 'Miles_per_Gallon': 14.0}
+{'Name': 'amc matador (sw)', 'Miles_per_Gallon': 14.0}
+{'Name': 'plymouth satellite custom (sw)', 'Miles_per_Gallon': 14.0}
+{'Name': 'pontiac catalina', 'Miles_per_Gallon': 14.0}
+{'Name': 'pontiac catalina', 'Miles_per_Gallon': 14.0}
+{'Name': 'plymouth fury gran sedan', 'Miles_per_Gallon': 14.0}
+{'Name': 'ford gran torino', 'Miles_per_Gallon': 14.0}
+{'Name': 'ford gran torino', 'Miles_per_Gallon': 14.5}
+{'Name': 'amc ambassador dpl', 'Miles_per_Gallon': 15.0}
+{'Name': 'chevrolet monte carlo s', 'Miles_per_Gallon': 15.0}
+{'Name': 'ford galaxie 500', 'Miles_per_Gallon': 15.0}
+{'Name': 'buick skylark 320', 'Miles_per_Gallon': 15.0}
+{'Name': 'mercury cougar brougham', 'Miles_per_Gallon': 15.0}
+{'Name': 'plymouth fury iii', 'Miles_per_Gallon': 15.0}
+{'Name': 'dodge dart custom', 'Miles_per_Gallon': 15.0}
+{'Name': 'amc matador (sw)', 'Miles_per_Gallon': 15.0}
+{'Name': 'dodge challenger se', 'Miles_per_Gallon': 15.0}
+{'Name': 'chevrolet bel air', 'Miles_per_Gallon': 15.0}
+{'Name': 'dodge coronet custom', 'Miles_per_Gallon': 15.0}
+{'Name': 'chevrolet monte carlo', 'Miles_per_Gallon': 15.0}
+{'Name': 'amc matador', 'Miles_per_Gallon': 15.0}
+{'Name': 'ford country squire (sw)', 'Miles_per_Gallon': 15.5}
+{'Name': 'amc matador', 'Miles_per_Gallon': 15.5}
+{'Name': 'dodge monaco brougham', 'Miles_per_Gallon': 15.5}
+{'Name': 'chrysler cordoba', 'Miles_per_Gallon': 15.5}
+{'Name': 'chevrolet monte carlo landau', 'Miles_per_Gallon': 15.5}
+{'Name': 'ford gran torino', 'Miles_per_Gallon': 16.0}
+{'Name': 'amc rebel sst', 'Miles_per_Gallon': 16.0}
+{'Name': 'ford thunderbird', 'Miles_per_Gallon': 16.0}
+{'Name': 'pontiac grand prix', 'Miles_per_Gallon': 16.0}
+{'Name': 'dodge coronet brougham', 'Miles_per_Gallon': 16.0}
+{'Name': 'plymouth grand fury', 'Miles_per_Gallon': 16.0}
+{'Name': 'pontiac grand prix lj', 'Miles_per_Gallon': 16.0}
+{'Name': 'chevroelt chevelle malibu', 'Miles_per_Gallon': 16.0}
+{'Name': 'plymouth satellite custom', 'Miles_per_Gallon': 16.0}
+{'Name': 'amc matador', 'Miles_per_Gallon': 16.0}
+{'Name': 'pontiac catalina', 'Miles_per_Gallon': 16.0}
+{'Name': 'ford torino', 'Miles_per_Gallon': 17.0}
+{'Name': 'volvo 264gl', 'Miles_per_Gallon': 17.0}
+{'Name': 'amc ambassador sst', 'Miles_per_Gallon': 17.0}
+{'Name': 'oldsmobile cutlass supreme', 'Miles_per_Gallon': 17.0}
+{'Name': 'buick century', 'Miles_per_Gallon': 17.0}
+{'Name': 'chevrolet caprice classic', 'Miles_per_Gallon': 17.0}
+{'Name': 'plymouth satellite sebring', 'Miles_per_Gallon': 18.0}
+{'Name': 'plymouth satellite', 'Miles_per_Gallon': 18.0}
+{'Name': 'chevrolet nova', 'Miles_per_Gallon': 18.0}
+{'Name': 'plymouth valiant', 'Miles_per_Gallon': 18.0}
+{'Name': 'chevrolet chevelle malibu', 'Miles_per_Gallon': 18.0}
+{'Name': 'volvo 145e (sw)', 'Miles_per_Gallon': 18.0}
+{'Name': 'amc hornet sportabout (sw)', 'Miles_per_Gallon': 18.0}
+{'Name': 'toyota mark ii', 'Miles_per_Gallon': 19.0}
+{'Name': 'volvo 144ea', 'Miles_per_Gallon': 19.0}
+{'Name': 'chevrolet monza 2+2', 'Miles_per_Gallon': 20.0}
+{'Name': 'toyota mark ii', 'Miles_per_Gallon': 20.0}
+{'Name': 'volvo 245', 'Miles_per_Gallon': 20.0}
+{'Name': 'mercury capri v6', 'Miles_per_Gallon': 21.0}
+{'Name': 'buick skyhawk', 'Miles_per_Gallon': 21.0}
+{'Name': 'chevrolet nova', 'Miles_per_Gallon': 22.0}
+{'Name': 'ford granada l', 'Miles_per_Gallon': 22.0}
+{'Name': 'cadillac eldorado', 'Miles_per_Gallon': 23.0}
+{'Name': 'saab 99le', 'Miles_per_Gallon': 24.0}
+{'Name': 'saab 99le', 'Miles_per_Gallon': 25.0}
+{'Name': 'buick century limited', 'Miles_per_Gallon': 25.0}
+{'Name': 'bmw 2002', 'Miles_per_Gallon': 26.0}
+{'Name': 'cadillac seville', 'Miles_per_Gallon': 16.5}
+{'Name': 'mercury grand marquis', 'Miles_per_Gallon': 16.5}
+{'Name': 'mercedes-benz 280s', 'Miles_per_Gallon': 16.5}
+{'Name': 'chevrolet chevelle malibu classic', 'Miles_per_Gallon': 17.5}
+{'Name': 'dodge magnum xe', 'Miles_per_Gallon': 17.5}
+{'Name': 'chevrolet concours', 'Miles_per_Gallon': 17.5}
+{'Name': 'chevrolet caprice classic', 'Miles_per_Gallon': 17.5}
+{'Name': 'chrysler lebaron town @ country (sw)', 'Miles_per_Gallon': 18.5}
+{'Name': 'pontiac ventura sj', 'Miles_per_Gallon': 18.5}
+{'Name': 'buick skylark', 'Miles_per_Gallon': 20.5}
+{'Name': 'mazda rx-4', 'Miles_per_Gallon': 21.5}
+{'Name': 'pontiac lemans v6', 'Miles_per_Gallon': 21.5}
+{'Name': 'bmw 320i', 'Miles_per_Gallon': 21.5}
+{'Name': 'chevrolet citation', 'Miles_per_Gallon': 23.5}
+{'Name': 'peugeot 604sl', 'Miles_per_Gallon': 16.2}
+{'Name': 'dodge st. regis', 'Miles_per_Gallon': 18.2}
+{'Name': 'chevrolet malibu classic (sw)', 'Miles_per_Gallon': 19.2}
+{'Name': 'pontiac phoenix lj', 'Miles_per_Gallon': 19.2}
+{'Name': 'chevrolet monte carlo landau', 'Miles_per_Gallon': 19.2}
+{'Name': 'mercury monarch ghia', 'Miles_per_Gallon': 20.2}
+{'Name': 'plymouth sapporo', 'Miles_per_Gallon': 23.2}
+{'Name': 'datsun 810 maxima', 'Miles_per_Gallon': 24.2}
+{'Name': 'buick regal sport coupe (turbo)', 'Miles_per_Gallon': 17.7}
+{'Name': 'dodge diplomat', 'Miles_per_Gallon': 19.4}
+{'Name': 'buick century', 'Miles_per_Gallon': 22.4}
+{'Name': 'toyota cressida', 'Miles_per_Gallon': 25.4}
+{'Name': 'buick estate wagon (sw)', 'Miles_per_Gallon': 16.9}
+{'Name': 'oldsmobile cutlass salon brougham', 'Miles_per_Gallon': 19.9}
+{'Name': 'dodge colt', 'Miles_per_Gallon': 27.9}
+{'Name': 'ford futura', 'Miles_per_Gallon': 18.1}
+{'Name': 'amc concord d/l', 'Miles_per_Gallon': 18.1}
+{'Name': 'datsun 280-zx', 'Miles_per_Gallon': 32.7}
+{'Name': 'ford ltd landau', 'Miles_per_Gallon': 17.6}
+{'Name': 'dodge aspen', 'Miles_per_Gallon': 18.6}
+{'Name': 'dodge aspen 6', 'Miles_per_Gallon': 20.6}
+{'Name': 'buick century special', 'Miles_per_Gallon': 20.6}
+{'Name': 'saab 99gle', 'Miles_per_Gallon': 21.6}
+{'Name': 'oldsmobile cutlass ls', 'Miles_per_Gallon': 26.6}
+{'Name': 'audi 5000', 'Miles_per_Gallon': 20.3}
+{'Name': 'oldsmobile omega brougham', 'Miles_per_Gallon': 26.8}
+{'Name': 'chevrolet citation', 'Miles_per_Gallon': 28.8}
