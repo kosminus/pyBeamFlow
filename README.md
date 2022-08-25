@@ -37,3 +37,8 @@ see : templates/application_template_gs_gs.ini
 `pip install -r requiments.txt `  
 please note that you also have to install  
 `pip install apache_beam[gcp] `
+
+**Run from local** :  
+You can run from Intellij both with DirectRunner and DataflowRunner.
+Please set GOOGLE_APPLICATION_CREDENTIALS=path_to_json.json , in environmnet variables in main.py configuration.
+Credential file is obtained from your gcp project, service accounts, keys, create and download as JSON.
